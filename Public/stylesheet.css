@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'queen1';
+    src: url('fonts/queen.woff') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'blood';
+    src: url('fonts/blood.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PickledPansies';
+    src: url('fonts/PickledPansies.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+h1 {
+    font-family: 'queen1', serif;
+}
+
+body {
+  background-color: green;
+  color: black;
+  font-family: 'blood';
+}
