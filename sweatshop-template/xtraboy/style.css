@@ -1,0 +1,23 @@
+/* styling goes in this file. You can add Classes and IDs to html elements to specify what you're modifying */
+
+body {
+  background-image: url("./img/the mystic corn copia.jpg");
+  background-size: cover;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.iconThanksgiving {
+	display: inline-block;
+	width: 25%;
+	cursor: help;
+}
+
+.greeting {
+	display: inline-block;
+}
+
+@font-face {
+  font-family: 'Nightmare';
+  src: url('nightmare.ttf') format('truetype');
+}

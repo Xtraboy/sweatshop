@@ -1,0 +1,15 @@
+body {
+  background-image: url("https://file.garden/adyAfhdfCBC6CnKb/2026-11-26%2014-41-59.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  color: transparent;
+  font-family: 'corpse', sans-serif;
+}
+
+@font-face {
+  font-family: 'corpse';
+  src: url('../fonts/corpse.ttf') format('truetype');
+}
+
